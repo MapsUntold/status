@@ -76,17 +76,17 @@
     "url": "broken.mapsuntold.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "down-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 566,
-    "timeWeek": 479,
-    "timeMonth": 423,
-    "timeYear": 405,
+    "time": 404,
+    "timeDay": 468,
+    "timeWeek": 465,
+    "timeMonth": 422,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   }
 ]
