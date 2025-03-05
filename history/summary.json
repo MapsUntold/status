@@ -4,7 +4,7 @@
     "url": "https://mapsuntold.io",
     "icon": "https://icons.duckduckgo.com/ip3/mapsuntold.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 402,
     "timeDay": 319,
-    "timeWeek": 382,
+    "timeWeek": 384,
     "timeMonth": 422,
     "timeYear": 402,
     "dailyMinutesDown": {}
